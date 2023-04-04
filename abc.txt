@@ -1,2 +1,1 @@
-hi,I am learning git.
-this is my first commit
+hello , I am learnig about git and github
