@@ -1,1 +1,2 @@
-hi,I am learning git
+hi,I am learning git.
+this is my first commit
